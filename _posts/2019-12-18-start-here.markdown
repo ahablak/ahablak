@@ -8,6 +8,6 @@ This is a website dedicated to my work, and anything else I find interesting. It
 
 https://jekyllrb.com/
 
-Much of this site is covers mycology, the study of fungi. In this case it focusses mostly on mushrooms, which are more interesting than microscopic and non-<i>basidiomycetes</i> fungi (sorry). 
+Much of this site covers mycology, the study of fungi. In this case it focusses mostly on mushrooms, which are more interesting than microscopic and non-<i>basidiomycetes</i> fungi (sorry). 
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/1/16/Mycena_interrupta.jpg' alt= "mycena interrupta">
